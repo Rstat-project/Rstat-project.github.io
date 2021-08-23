@@ -2,11 +2,11 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "Classes assignments",
+      "title": "Classes Information",
       "description": "Assignments for all my statistical courses. Attenders have to have a self-owned github account to access the assignments.",
       "author": [],
-      "contents": "\r\n\r\n以下連結皆為github classroom， 修課學生需要有個人github帳號，才能取得及繳交作業。\r\n\r\nNCKU PSY 2021\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-08-20T15:00:28+08:00"
+      "contents": "\r\n學習手冊\r\n2021-2022 成功大學心理學系“心理與教育統計”\r\n課程作業\r\n\r\n以下連結皆為github classroom， 修課學生需要有個人github帳號，才能取得及繳交作業。\r\n\r\nNCKU PSY 2021\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-08-23T17:58:20+08:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "Welcome to the website of our stat courses!\n",
       "author": [],
       "contents": "\r\n開放學習資源清單\r\npsyteachr undergraduate level 1\r\npsyteachr undergraduate level 2\r\n可重製統計中文示範系列\r\n\r\n本站學習資源取用格拉斯哥大學心理學院與神經科學與心理學研究中心的PsyTeachR團隊開發的開放教材。本站內容可由可重製統計學習資源 github取得，中文化工程將持續進行並不定期更新本站內容。\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-08-20T15:00:29+08:00"
+      "last_modified": "2021-08-23T17:58:21+08:00"
     }
   ],
   "collections": []
