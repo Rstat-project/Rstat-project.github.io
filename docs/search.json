@@ -6,7 +6,7 @@
       "description": "Assignments for all my statistical courses. Attenders have to have a self-owned github account to access the assignments.",
       "author": [],
       "contents": "\r\n學習手冊\r\n2021-2022 成功大學心理學系“心理與教育統計”\r\n課程作業\r\n\r\n以下連結皆為github classroom， 修課學生需要有個人github帳號，才能取得及繳交作業。\r\n\r\nNCKU PSY 2021\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-08-23T17:58:20+08:00"
+      "last_modified": "2021-08-28T12:10:54+08:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,16 @@
       "description": "Welcome to the website of our stat courses!\n",
       "author": [],
       "contents": "\r\n開放學習資源清單\r\npsyteachr undergraduate level 1\r\npsyteachr undergraduate level 2\r\n可重製統計中文示範系列\r\n\r\n本站學習資源取用格拉斯哥大學心理學院與神經科學與心理學研究中心的PsyTeachR團隊開發的開放教材。本站內容可由可重製統計學習資源 github取得，中文化工程將持續進行並不定期更新本站內容。\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-08-23T17:58:21+08:00"
+      "last_modified": "2021-08-28T12:10:55+08:00"
+    },
+    {
+      "path": "instruction.html",
+      "title": "Instruction for students",
+      "description": "Guidelines to integrate data science and statistics into your individual skills.\n",
+      "author": [],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\n授課/學習模式\r\n每週上課時間3小時；課間學習時間x小時。\r\n學習行動時間分配\r\n模式A\r\n上課\r\n課間\r\n講授/學習\r\n100%\r\n0%\r\n作業練習\r\n0%\r\n100%\r\n模式B\r\n上課\r\n課間\r\n講授/學習\r\n20%\\(^1\\)\r\n80%\\(^2\\)\r\n作業練習\r\n80%\\(^3\\)\r\n20%\\(^4\\)\r\n課堂作業說明，不完全採用psyteachr的資料\r\n依照學習影片學習psyteachr內容，用於下週作業練習\r\n在課堂上進行，可與同學及助教討論，下課前推送github\r\n檢視批改建議，與老師助教反應還不夠清楚的地方。\r\n課程進度\r\nLevel 1: 110學年度上學期\r\n週次\r\nPsyteachr單元\r\n學習模式\r\n1\r\nNA\r\nA\r\n2\r\n1\r\nA\r\n3\r\n2\r\nA\r\n4\r\n\r\n\r\n5\r\n\r\n\r\n6\r\n\r\n\r\n! 7\r\n\r\n\r\n8\r\n\r\n\r\n9\r\n\r\n\r\n10\r\n\r\n\r\n11\r\n\r\n\r\n12\r\n\r\n\r\n13\r\n\r\n\r\n14\r\n\r\n\r\n15\r\n\r\n\r\n16\r\n\r\n\r\n17\r\n\r\n\r\n18\r\n\r\n\r\nLevel 2: 110學年度下學期\r\n週次\r\nPsyteachr單元\r\n學習模式\r\n1\r\n\r\n\r\n2\r\n\r\n\r\n3\r\n\r\n\r\n4\r\n\r\n\r\n5\r\n\r\n\r\n6\r\n\r\n\r\n! 7\r\n\r\n\r\n8\r\n\r\n\r\n9\r\n\r\n\r\n10\r\n\r\n\r\n11\r\n\r\n\r\n12\r\n\r\n\r\n13\r\n\r\n\r\n14\r\n\r\n\r\n15\r\n\r\n\r\n16\r\n\r\n\r\n17\r\n\r\n\r\n18\r\n\r\n\r\n學習成效評估\r\nTBA\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-08-28T12:10:58+08:00"
     }
   ],
   "collections": []
