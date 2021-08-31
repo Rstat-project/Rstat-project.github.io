@@ -6,7 +6,7 @@
       "description": "Assignments for all my statistical courses. Attenders have to have a self-owned github account to access the assignments.",
       "author": [],
       "contents": "\r\n學習手冊\r\n2021-2022 成功大學心理學系“心理與教育統計”\r\n課程作業\r\n\r\n以下連結皆為github classroom， 修課學生需要有個人github帳號，才能取得及繳交作業。\r\n\r\nNCKU PSY 2021\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-08-31T10:11:57+08:00"
+      "last_modified": "2021-08-31T10:19:17+08:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "Welcome to the website of our stat courses!\n",
       "author": [],
       "contents": "\r\n開放學習資源清單\r\npsyteachr undergraduate level 1\r\npsyteachr undergraduate level 2\r\n可重製統計中文示範系列\r\n\r\n本站學習資源取用格拉斯哥大學心理學院與神經科學與心理學研究中心的PsyTeachR團隊開發的開放教材。本站內容可由可重製統計學習資源 github取得，中文化工程將持續進行並不定期更新電子書內容。\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-08-31T10:11:58+08:00"
+      "last_modified": "2021-08-31T10:19:18+08:00"
     },
     {
       "path": "syllabus.html",
@@ -23,7 +23,7 @@
       "author": [],
       "date": "`r Sys.Date()`",
       "contents": "\r\n\r\nContents\r\n先修課程或先備能力 Prerequisite Course(s)\r\n課程概述 Course Description\r\n課程學習目標 Course Objectives\r\n課程教材 Course Material\r\n教學方法 Teaching Strategies\r\n學習規範 Course Policy\r\n課程進度Progress Description\r\n評量方式 Grading\r\n\r\n先修課程或先備能力 Prerequisite Course(s)\r\ngit版本控制系統基本操作\r\n課程概述 Course Description\r\nLevel 1\r\n本學期學習以R統計程式語言為基礎的基本資料科學能力，包含資料清理及整頓、資料視覺化、以及基本R程式設計技巧。運用R語言學習機率模型的模擬測試，掌握基本統計方法的數學基礎 。\r\nLevel 2\r\n本學期首先複驗並學習進階的資料科學能力，透過視覺化方法理解基本統計觀念：假設檢定、樣本數、統計考驗力、效果量。藉由R程式設計技巧理解通用線性模型，整合所有基本推論統計方法。\r\n建議修課學生自備能執行本機版R與Rstudio的個人電腦\r\n課程學習目標 Course Objectives\r\nLevel 1\r\n主動找尋與使用開放資料的意識\r\n掌握機率模型視覺化技巧\r\n適用各種情境的動態文件寫作技巧\r\nLevel 2\r\n適用各種情境的動態文件寫作技巧\r\n運用視覺化工具理解與解說統計概念\r\n掌握通用線性模型的概念與實作方法，為進學習階統計及心理學研究方法奠定基礎。\r\n課程教材 Course Material\r\nLevel 1\r\nCleland-Woods, H., & Nordmann, E. (2021). Data Skills. https://psyteachr.github.io/data-skills-v1\r\nLevel 2\r\nMcAleer, P., Kuepper-Tetzel, C., & Paterson, H. M. (2021). Research Methods and Statistics Practical Skills (1.0.9001) [Computer software]. Zenodo. https://doi.org/10.5281/ZENODO.5101080\r\n教學方法 Teaching Strategies\r\n校務系統公告版\r\n方法\r\n百分比%\r\n講授 Lecture\r\n50%\r\n作業 Assignment\r\n50%\r\n詳細說明版\r\n假設修課學生每週上課時間3小時；課間學習時間3小時。\r\n教學模式時間分配\r\n模式A\r\n上課\r\n課間\r\n講授/學習\r\n100%\r\n0%\r\n作業練習\r\n0%\r\n100%\r\n模式B\r\n上課\r\n課間\r\n講授/學習\r\n20%\\(^1\\)\r\n80%\\(^2\\)\r\n作業練習\r\n80%\\(^3\\)\r\n20%\\(^4\\)\r\n教學模式B解說:\r\n課堂作業說明，不完全採用psyteachr的資料\r\n依照學習影片學習psyteachr內容，用於下週作業練習\r\n在課堂上進行，可與同學及助教討論，下課前推送github\r\n檢視批改建議，與老師助教反應還不夠清楚的地方。\r\n學習規範 Course Policy\r\n課程進行中請保持安靜，請勿干擾老師與同學上課。\r\n本課程所有作業透過github classroom發送。修課學生必須註冊github帳號，才能取得作業複本編輯及上傳權限。\r\n除第一次暖身作業，所有作業必須在繳交期限前完成上傳，以最後一次git commit紀錄時間為準，紀錄時間超過期限的作業視為逾期，不得補繳。\r\n每次作業均有達成目標及必須條件，未依必須條件完成的作業以0分計。\r\n課程進行到第8到第10週之後，將轉換為課前線上學習、上課練習模式，上課簽到及簽退以作業複本git commit紀錄時間為準。\r\n期末專案課題預訂於期中考週說明專題達成目標與條件。於說明會上課時間完成登記者，才能進行期末專案。無法親自參與說明會的同學，務必事先告知，否則視為放棄。\r\n課程進度Progress Description\r\nPsyteachr Level 1: 110學年度上學期\r\n週次\r\n進度說明 Progress Description\r\n1\r\n開場~ 加入github,認識git版本控制\r\n2\r\nPsyteachr單元1~ 認識資料\r\n3\r\nPsyteachr單元2~ R與Rstudio安裝與設定、操作技巧\r\n4\r\nPsyteachr單元3~ R程式語言入門\r\n5\r\nPsyteachr單元4~ 匯入及檢視資料\r\n6\r\nPsyteachr單元5~ 資料清理技巧\r\n! 7\r\nPsyteachr單元6~ 資料清理建議步驟\r\n8\r\nPsyteachr單元7~ ggplot視覺化語法\r\n9\r\nPsyteachr單元8~ 散佈圖視覺化技巧\r\n10\r\n期末專題說明會\r\n11\r\nPsyteachr單元9~ 開放資料實作\r\n12\r\nPsyteachr單元10~ 資料整頓與描述統計\r\n13\r\nPsyteachr單元11~ 管道運算子入門\r\n14\r\nPsyteachr單元12~ 進階資料視覺化方法\r\n15\r\nPsyteachr單元13~ 機率概論\r\n16\r\nPsyteachr單元14~ 機率模型視覺化\r\n17\r\nPsyteachr單元15~ 虛擬樣本資料及模擬方法\r\n18\r\n期末專題發表會\r\nLevel 2: 110學年度下學期\r\n週次\r\nPsyteachr單元\r\n學習模式\r\n1\r\n\r\n\r\n2\r\n\r\n\r\n3\r\n\r\n\r\n4\r\n\r\n\r\n5\r\n\r\n\r\n6\r\n\r\n\r\n! 7\r\n\r\n\r\n8\r\n\r\n\r\n9\r\n\r\n\r\n10\r\n\r\n\r\n11\r\n\r\n\r\n12\r\n\r\n\r\n13\r\n\r\n\r\n14\r\n\r\n\r\n15\r\n\r\n\r\n16\r\n\r\n\r\n17\r\n\r\n\r\n18\r\n\r\n\r\n評量方式 Grading\r\n方法\r\n百分比%\r\n作業 Assignments\r\n50\r\n期末專題 Project\r\n35\r\n其他others~ 課程參與紀錄\r\n15\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-08-31T10:12:01+08:00"
+      "last_modified": "2021-08-31T10:19:19+08:00"
     }
   ],
   "collections": []
