@@ -1,0 +1,23 @@
+---
+title: "關於學習資源"
+description: |
+  因應各種授課場合，彙整講義及作業資訊。
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### 課程講義
+
+- [20211112 TCPSR開放科學種子教師Part001](/power-analysis-dummy/)
+- [2021-2022 成功大學心理學系“心理與教育統計”](/ug-tactic/)
+
+
+### 課程作業
+
+> 所有作業透過[github classroom](https://classroom.github.com/classrooms/88956273-rstat-project-ncku-2021fall)派發。除了暖身作業"Hello! git and github"，每次作業及期末專案經moodle公告系統發送領取連結，領取方式詳見[githubclassroom作業管理](https://rstat-project.github.io/ug1-practical/githubclassroom.html)。
+> 修課學生需要有個人github帳號，才能取得以及繳交作業。
+
+
+

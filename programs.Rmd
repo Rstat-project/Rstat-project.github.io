@@ -1,0 +1,101 @@
+---
+title: "課程模組資訊"
+description: |
+  網頁內容依授課場合調整。
+#author:
+#  - name: Nora Jones 
+#    url: https://example.com/norajones
+#    affiliation: Spacely Sprockets
+#    affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output: 
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## 課程準備 Preparation
+
+- 除大學生1年級，建議學員自備能執行本機版R與Rstudio的個人電腦或筆電。
+
+- 參考[可重製研究操作教學套件](/seed_courses/)，了解符合個人狀況的學習進程。
+
+
+## 先備或必學能力 Prerequisite Skill(s)
+
+
+|學員身份|種子教師|研究生|大學生(2年級以上)|大學生(1年級)
+|---|:---:|:---:|:---:|:---:|
+|可運作的R & Rstudio| V | V | V | |
+|更新R及R套件 | V | V | V | |
+|github帳號 | V | V | V | V |
+|git版本控制系統基本操作| V | V | V | |
+
+
+## 學習目標 Objectives
+
+### 種子教師
+
+- 認識開放透明的研究規範
+- 更新研究操作
+
+### 研究生
+
+- 認識開放透明的研究規範
+- 學習開放透明的研究操作
+
+### 大學生(2年級以上)
+
+- 認識開放透明的研究規範
+- 學習開放透明的研究操作
+
+### 大學生(1年級)
+
+- 學習能長期累積思考成品的寫作方法
+- 認識基本機率論與計算工具
+- 認識開放透明的研究規範
+
+
+#### 課前自學影片
+
+- 安裝R, Rstudio, 設定Git
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TRQbovHGLQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+- 更新R核心環境
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u05IqPDQIOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 透過github repo創建專案
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yeLSkxtc-kI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+<!---
+
+## 學習課程 Programs
+
+
+### 種子教師
+
+- 
+
+### 研究生
+
+- 
+
+### 大學生(2年級以上)
+
+-
+
+
+### 大學生(1年級)
+
+--->

@@ -1,0 +1,14 @@
+name: "Rstat-project.github.io"
+title: "Reproducible Stat Learning"
+description: |
+  Reproducible Stat Learning
+output_dir: "docs"
+navbar:
+  right:
+#    - text: "Home"
+#      href: index.html
+    - text: "Programs"
+      href: programs.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article

@@ -6,7 +6,7 @@
       "description": "因應各種授課場合，彙整講義及作業資訊。",
       "author": [],
       "contents": "\r\n課程講義\r\n20211112 TCPSR開放科學種子教師Part001\r\n2021-2022 成功大學心理學系“心理與教育統計”\r\n課程作業\r\n\r\n所有作業透過github classroom派發。除了暖身作業“Hello! git and github”，每次作業及期末專案經moodle公告系統發送領取連結，領取方式詳見githubclassroom作業管理。 修課學生需要有個人github帳號，才能取得以及繳交作業。\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-11-11T20:25:28+08:00"
+      "last_modified": "2022-02-14T11:45:34+08:00"
     },
     {
       "path": "index.html",
@@ -14,16 +14,16 @@
       "description": "本網站由授課教師[陳紹慶](https://scchen.com/)維護。\n",
       "author": [],
       "contents": "\r\n開放學習資源清單\r\n\r\nleve 1與level 2電子書為本課程主要學習材料，修課學生可參考課程大綱依單元順序學習。有github帳號者皆可在課程討論區發言。“可重製統計中文示範系列”是再進階的學習材料，提供更熟練R與資料科學方法的同學自修。\r\n\r\npsyteachr undergraduate level 1\r\nlevel 1課程討論區\r\n\r\npsyteachr undergraduate level 2\r\n可重製統計中文示範系列\r\n\r\n本站學習資源取用格拉斯哥大學心理學院與神經科學與心理學研究中心的PsyTeachR團隊開發的CC BY-SA 4.0授權開放教材，任何人皆可分享及修改，但重製作品也要遵守相同方式分享。本站內容可由可重製統計學習資源 github取得，電子書中文化工程將持續進行並不定期更新。\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-11-11T20:25:30+08:00"
+      "last_modified": "2022-02-14T11:45:35+08:00"
     },
     {
-      "path": "syllabus.html",
-      "title": "課程資訊",
+      "path": "programs.html",
+      "title": "課程模組資訊",
       "description": "網頁內容依授課場合調整。\n",
       "author": [],
       "date": "`r Sys.Date()`",
-      "contents": "\r\n\r\nContents\r\n先修課程或先備能力 Prerequisite Course(s)\r\n課程概述 Course Description\r\n課程學習目標 Course Objectives\r\n課程教材 Course Material\r\n教學方法 Teaching Strategies\r\n學習規範 Course Policy\r\n課程進度Progress Description\r\n評量方式 Grading\r\n\r\n先修課程或先備能力 Prerequisite Course(s)\r\ngit版本控制系統基本操作\r\n課程概述 Course Description\r\n建議修課學生自備能執行本機版R與Rstudio的個人電腦或筆電\r\nLevel 1\r\n本學期學習以R統計程式語言為基礎的基本資料科學能力，包含資料清理及整頓、資料視覺化、以及基本R程式設計技巧。運用R語言學習機率模型的模擬測試，掌握基本統計方法的數學基礎 。\r\nLevel 2\r\n本學期首先複驗並學習進階的資料科學能力，透過視覺化方法理解基本統計觀念：假設檢定、樣本數、統計考驗力、效果量。藉由R程式設計技巧理解通用線性模型，整合所有基本推論統計方法。\r\n課程學習目標 Course Objectives\r\nLevel 1\r\n主動找尋與使用開放資料的意識\r\n掌握機率模型視覺化技巧\r\n適用各種情境的動態文件寫作技巧\r\nLevel 2\r\n適用各種情境的動態文件寫作技巧\r\n運用視覺化工具理解與解說統計概念\r\n掌握通用線性模型的概念與實作方法，為進學習階統計及心理學研究方法奠定基礎。\r\n課程教材 Course Material\r\nLevel 1\r\nCleland-Woods, H., & Nordmann, E. (2021). Data Skills. https://psyteachr.github.io/data-skills-v1\r\nLevel 2\r\nMcAleer, P., Kuepper-Tetzel, C., & Paterson, H. M. (2021). Research Methods and Statistics Practical Skills (1.0.9001) [Computer software]. Zenodo. https://doi.org/10.5281/ZENODO.5101080\r\n教學方法 Teaching Strategies\r\n校務系統公告版\r\n方法\r\n百分比%\r\n講授 Lecture\r\n50%\r\n作業 Assignment\r\n50%\r\n詳細說明版\r\n假設修課學生每週上課時間3小時；課間學習時間3小時。\r\n教學模式時間分配\r\n模式A\r\n上課\r\n課間\r\n講授/學習\r\n100%\r\n0%\r\n作業練習\r\n0%\r\n100%\r\n模式B\r\n上課\r\n課間\r\n講授/學習\r\n20%\\(^1\\)\r\n80%\\(^2\\)\r\n作業練習\r\n80%\\(^3\\)\r\n20%\\(^4\\)\r\n教學模式B解說:\r\n課堂作業說明，不完全採用psyteachr的資料\r\n依照學習影片學習psyteachr內容，用於下週作業練習\r\n在課堂上進行，可與同學及助教討論，下課前推送github\r\n檢視批改建議，與老師助教反應還不夠清楚的地方。\r\n教學模式流程\r\n\r\n模式A\r\n模式B\r\n單元範圍\r\n1 - 8\r\n9 - 15\r\n課前\r\n完成前次單元作業獲得作業回饋\r\n觀看示範錄影、自行練習\r\n上課時間\r\n領取作業依單元內容講授示範課堂練習\r\n領取作業說明作業達成目標完成單元作業\r\n課後\r\n完成單元作業討論區提問或分享心得\r\n討論區提問或分享心得\r\n學習規範 Course Policy\r\n課程進行中請保持安靜，請勿干擾老師與同學上課。\r\n本課程所有作業透過github classroom發送。修課學生必須註冊github帳號，才能取得作業複本編輯及上傳權限。\r\n除第一次暖身作業，所有作業必須在繳交期限前完成上傳，以最後一次git commit紀錄時間為準，紀錄時間超過期限的作業視為逾期，不得補繳。\r\n每次作業均有達成目標及必須條件，未依必須條件完成的作業以0分計。\r\n課程進行到第8到第10週之後，將轉換為課前線上學習、上課練習模式，上課簽到及簽退以作業複本git commit紀錄時間為準。\r\n期末專案課題預訂於期中考週說明專題達成目標與條件。於說明會上課時間完成登記者，才能進行期末專案。無法親自參與說明會的同學，務必事先告知，否則視為放棄。\r\n課程進度Progress Description\r\nPsyteachr Level 1: 110學年度上學期\r\n週次\r\n進度說明 Progress Description\r\n1\r\n開場~ 加入github,認識git版本控制\r\n2\r\nPsyteachr單元1~ 認識資料\r\n3\r\nPsyteachr單元2~ R與Rstudio安裝與設定、操作技巧\r\n4\r\nPsyteachr單元3~ R程式語言入門\r\n5\r\nPsyteachr單元4~ 匯入及檢視資料\r\n6\r\nPsyteachr單元5~ 資料清理技巧\r\n! 7\r\nPsyteachr單元6~ 資料清理建議步驟\r\n8\r\nPsyteachr單元7~ ggplot視覺化語法\r\n9\r\nPsyteachr單元8~ 散佈圖視覺化技巧\r\n10\r\n期末專題說明會\r\n11\r\nPsyteachr單元9~ 開放資料實作\r\n12\r\nPsyteachr單元10~ 資料整頓與描述統計\r\n13\r\nPsyteachr單元11~ 管道運算子入門\r\n14\r\nPsyteachr單元12~ 進階資料視覺化方法\r\n15\r\nPsyteachr單元13~ 機率概論\r\n16\r\nPsyteachr單元14~ 機率模型視覺化\r\n17\r\nPsyteachr單元15~ 虛擬樣本資料及模擬方法\r\n18\r\n期末專題發表會\r\nLevel 2: 110學年度下學期\r\n週次\r\nPsyteachr單元\r\n學習模式\r\n1\r\n\r\n\r\n2\r\n\r\n\r\n3\r\n\r\n\r\n4\r\n\r\n\r\n5\r\n\r\n\r\n6\r\n\r\n\r\n! 7\r\n\r\n\r\n8\r\n\r\n\r\n9\r\n\r\n\r\n10\r\n\r\n\r\n11\r\n\r\n\r\n12\r\n\r\n\r\n13\r\n\r\n\r\n14\r\n\r\n\r\n15\r\n\r\n\r\n16\r\n\r\n\r\n17\r\n\r\n\r\n18\r\n\r\n\r\n評量方式 Grading\r\n方法\r\n百分比%\r\n作業 Assignments\r\n50\r\n期末專題 Project\r\n35\r\n其他others~ 課程參與紀錄\r\n15\r\n詳細評量方式，請見學習手冊\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-11-11T20:25:33+08:00"
+      "contents": "\r\n\r\nContents\r\n課程準備 Preparation\r\n先備或必學能力 Prerequisite Skill(s)\r\n學習目標 Objectives\r\n\r\n課程準備 Preparation\r\n除大學生1年級，建議學員自備能執行本機版R與Rstudio的個人電腦或筆電。\r\n參考可重製研究操作教學套件，了解符合個人狀況的學習進程。\r\n先備或必學能力 Prerequisite Skill(s)\r\n學員身份\r\n種子教師\r\n研究生\r\n大學生(2年級以上)\r\n大學生(1年級)\r\n可運作的R & Rstudio\r\nV\r\nV\r\nV\r\n\r\n更新R及R套件\r\nV\r\nV\r\nV\r\n\r\ngithub帳號\r\nV\r\nV\r\nV\r\nV\r\ngit版本控制系統基本操作\r\nV\r\nV\r\nV\r\n\r\n學習目標 Objectives\r\n種子教師\r\n認識開放透明的研究規範\r\n更新研究操作\r\n研究生\r\n認識開放透明的研究規範\r\n學習開放透明的研究操作\r\n大學生(2年級以上)\r\n認識開放透明的研究規範\r\n學習開放透明的研究操作\r\n大學生(1年級)\r\n學習能長期累積思考成品的寫作方法\r\n認識基本機率論與計算工具\r\n認識開放透明的研究規範\r\n課前自學影片\r\n安裝R, Rstudio, 設定Git\r\n\r\n\r\n更新R核心環境\r\n\r\n\r\n透過github repo創建專案\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-02-14T11:45:37+08:00"
     }
   ],
   "collections": []
