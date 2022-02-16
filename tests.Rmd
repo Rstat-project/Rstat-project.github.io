@@ -1,0 +1,28 @@
+---
+title: "學習成果驗收"
+description: |
+  因應各種授課場合，彙整講義及作業資訊。
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### 正在進行的課程作業
+
+|學員身份|種子教師|研究生|大學生|
+|---|:---:|:---:|:---:|
+|最新作業登入連結| 待發佈 | 待發佈 | 待發佈 |
+|作業截止日期時間| 待設定 | 待設定 | 待設定 |
+
+
+### 曾發佈的課程作業
+
+> [PsyteachR level 1 github classroom](https://classroom.github.com/classrooms/88956273-rstat-project-ncku-2021fall)。 修課學生需要有個人github帳號，才能取得以及繳交作業。
+
+
+
+### 曾使用的課程講義
+
+- [20211112 TCPSR開放科學種子教師Part001](/power-analysis-dummy/)
+- [2021 成功大學心理學系“心理與教育統計” PsyteachR level 1( 未完成)](/ug-tactic/)

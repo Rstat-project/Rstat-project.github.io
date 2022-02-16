@@ -78,24 +78,51 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-<!---
-
-## 學習課程 Programs
-
+## 學習課表 Syllabus
 
 ### 種子教師
 
-- 
+|進度編號|單元名稱|講義及課程資訊連結|
+|:---:|:---:|:---:|
+|0| 課程說明 | [啟動講義](/seed_courses/Lecture00.html) |
+|1| 如何評估及解讀效果量 | [課程講義](/seed_courses/Lecture01.html) |
+|1.1| 效果量R函式彙整協作 | 發佈於[成果驗收](tests.html) |
+|2| 設計有高考驗力的研究 | [課程講義](/seed_courses/Lecture02.html) |
+|2.1| 樣本數估計方案協作 | 發佈於[成果驗收](tests.html) |
+|3| 評估已出版研究的考驗力 | [課程講義](/seed_courses/Lecture03.html) |
+|3.1 | 整合分析方案協作 | 發佈於[成果驗收](tests.html) |
 
 ### 研究生
 
-- 
+|進度編號|單元名稱|講義及課程資訊連結|
+|:---:|:---:|:---:|
+|0| 課程說明 | [啟動講義](/seed_courses/Lecture00.html) |
+|1| 如何評估及解讀效果量 | [課程講義](/seed_courses/Lecture01.html) |
+|2| Programming basics & Intro to R | 參考[增能課表](/seed_courses/Program_postgraudate.html) |
+|3| Data Processing | 參考[增能課表](/seed_courses/Program_postgraudate.html) |
+|4| Fundamental statistics | 參考[增能課表](/seed_courses/Program_postgraudate.html) |
+|5| 設計有高考驗力的研究 | [課程講義](/seed_courses/Lecture02.html) |
+|6| Advanced data analysis | 參考[增能課表](/seed_courses/Program_postgraudate.html) |
+|7| Reproducible workflows | 參考[增能課表](/seed_courses/Program_postgraudate.html) |
+|8| Advanced data processing |參考[增能課表](/seed_courses/Program_postgraudate.html) |
+|9| Advanced data analysis | 參考[增能課表](/seed_courses/Program_postgraudate.html) |
 
 ### 大學生(2年級以上)
 
--
+|進度編號|單元名稱|講義及課程資訊連結|
+|:---:|:---:|:---:|
+|0| 課程說明 | [啟動講義](/seed_courses/Lecture00.html) |
+|1| Programming basics & Intro to R | 參考[增能課表](/seed_courses/Program_undergraudate.html) |
+|2| Data Processing (Block 1) | 參考[增能課表](/seed_courses/Program_undergraudate.html) |
+|3| Data processing (Block 2) | 參考[增能課表](/seed_courses/Program_undergraudate.html) |
+|4| Probability | 參考[增能課表](/seed_courses/Program_undergraudate.html) |
+|5|如何評估及解讀效果量 | [課程講義](/seed_courses/Lecture01.html) |
+|6| Rmarkdown skill | 參考[增能課表](/seed_courses/Program_undergraudate.html) |
+|7| Data processing (Block 3) | 參考[增能課表](/seed_courses/Program_undergraudate.html) |
+|8| Probability distribution | 參考[增能課表](/seed_courses/Program_undergraudate.html) |
+|9| NHST | 參考[增能課表](/seed_courses/Program_undergraudate.html) |
+|10| Alpha, Power, Effect Sizes, Sample Size | 參考[增能課表](/seed_courses/Program_undergraudate.html) |
+|11| Correlations and Regression | 參考[增能課表](/seed_courses/Program_undergraudate.html) |
 
 
-### 大學生(1年級)
-
---->
+* 20220216草稿版本
