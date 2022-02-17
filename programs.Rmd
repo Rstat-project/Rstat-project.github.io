@@ -86,11 +86,11 @@ knitr::opts_chunk$set(echo = FALSE)
 |:---:|:---:|:---:|
 |0| 課程說明 | [啟動講義](/seed_courses/Lecture00.html) |
 |1| 如何評估及解讀效果量 | [課程講義](/seed_courses/Lecture01.html) |
-|1.1| 效果量R函式彙整協作 | 發佈於[成果驗收](tests.html) |
+|1.1| 協作彙整效果量R函式 | 發佈於[成果驗收](tests.html) |
 |2| 設計有高考驗力的研究 | [課程講義](/seed_courses/Lecture02.html) |
-|2.1| 樣本數估計方案協作 | 發佈於[成果驗收](tests.html) |
+|2.1| 協作樣本數估計方案 | 發佈於[成果驗收](tests.html) |
 |3| 評估已出版研究的考驗力 | [課程講義](/seed_courses/Lecture03.html) |
-|3.1 | 整合分析方案協作 | 發佈於[成果驗收](tests.html) |
+|3.1 | 協同學習考驗力評估工具 | 發佈於[成果驗收](tests.html) |
 
 ### 研究生
 
