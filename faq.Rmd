@@ -1,5 +1,5 @@
 ---
-title: 解決無法安裝Rmarkdown 需要套件的問題 
+title: 常見問題 
 description: |
   整理各種安裝設定的疑難雜症。
 output: 
