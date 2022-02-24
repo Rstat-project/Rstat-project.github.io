@@ -17,9 +17,11 @@ output:
 
 ### 無法安裝R套件
 
-- 依預設建議安裝windows 10與11，會綁定onedrive。或預設登入權限不具管理員等級，無法更改外部軟體安裝路徑，都會造成在R console無法透過遠端伺服器下載安裝所需套件。
+- **問題描述** 依預設建議安裝windows 10與11，會綁定onedrive。或預設登入權限不具有管理員等級，無法更改外部軟體安裝路徑，都會造成在R console無法透過遠端伺服器下載安裝所需套件。
 
-- 解決方法1: 自行下載套件壓縮檔，由本地安裝。
+- 解決方法1: R與Rstudio不要安裝於"C:\\Program Files"。有兩個以上磁碟區，建議安裝於"C:\\"之外的磁碟區。只有一個磁碟區，建議安裝於其他非"C:\\Program Files"的路徑。
+
+- 解決方法2:(適用解決方法1無法解決者) 自行下載套件壓縮檔，由本地安裝。
 
 > step 1. 下載套件壓縮檔。以`evaluate`為例，google搜尋"R evaluate package"可找到[CRAN資訊網頁](https://cran.r-project.org/web/packages/evaluate/index.html)。從網頁中下載最新版壓縮檔。
 
@@ -34,6 +36,10 @@ output:
 
 
 ## Mac OS
+
+### 安裝package遇到無法make的訊息
+
+- 請依個人硬體條件，將作業系統升級至最新版本。許多R Package需要搭配作業系統才能安裝或升級。
 
 ### 安裝R
 
@@ -56,3 +62,5 @@ output:
 2. 點選：Rstudio Desktop
 
 3. 點選：Download Rstudio Desktop，依照電腦指示安裝。
+
+
