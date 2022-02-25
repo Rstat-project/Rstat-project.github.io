@@ -6,15 +6,15 @@
       "description": "整理各種安裝設定的疑難雜症。\n",
       "author": [],
       "contents": "\r\n\r\nContents\r\nWindows 7,8,10,11\r\n無法安裝R與Rstudio\r\n無法安裝R套件\r\n\r\nMac OS\r\n安裝package遇到無法make的訊息\r\n安裝R\r\n安裝Rstudio\r\n\r\n\r\nWindows 7,8,10,11\r\n無法安裝R與Rstudio\r\n確認你安裝的作業系統是專業版，家用版無法安裝未經微軟認證的開源軟體。\r\n參考官方說明查看個人使用的作業系統版本。\r\n無法安裝R套件\r\n問題描述 依預設建議安裝windows 10與11，會綁定onedrive。或預設登入權限不具有管理員等級，無法更改外部軟體安裝路徑，都會造成在R console無法透過遠端伺服器下載安裝所需套件。\r\n解決方法1: R與Rstudio不要安裝於“C:\\Program Files”。有兩個以上磁碟區，建議安裝於“C:\\”之外的磁碟區。只有一個磁碟區，建議安裝於其他非“C:\\Program Files”的路徑。\r\n解決方法2:(適用解決方法1無法解決者) 自行下載套件壓縮檔，由本地安裝。\r\n\r\nstep 1. 下載套件壓縮檔。以evaluate為例，google搜尋“R evaluate package”可找到CRAN資訊網頁。從網頁中下載最新版壓縮檔。\r\n\r\n\r\n\r\nstep 2. 存放於可讀寫的路徑，例如 D:\r\n\r\n\r\nstep 3. 在“Console”畫面執行安裝函式，如下圖示範。\r\n\r\n\r\nMac OS\r\n安裝package遇到無法make的訊息\r\n請依個人硬體條件，將作業系統升級至最新版本。許多R Package需要搭配作業系統才能安裝或升級。\r\n安裝R\r\n至官方網站下載：https://www.r-project.org/\r\n點選選單左側：CRAN\r\n\r\n選擇Taiwan\r\n選擇Download R for macOS\r\n選擇適合自己mac系統^*的載點（例如：catalina、big sur），按照步驟安裝。\r\n^* Mac OS可由桌面左上角蘋果圖示，點選：”關於這台mac”以確認系統規格。\r\n安裝Rstudio\r\n前往 Rstudio下載的網址：https://www.rstudio.com/products/rstudio/\r\n點選：Rstudio Desktop\r\n點選：Download Rstudio Desktop，依照電腦指示安裝。\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-02-24T16:38:29+08:00"
+      "last_modified": "2022-02-25T16:34:23+08:00"
     },
     {
       "path": "index.html",
       "title": "可重製統計學習資源",
       "description": "本網站由授課教師[陳紹慶](https://scchen.com/)維護。\n",
       "author": [],
-      "contents": "\r\n開放學習資源清單\r\n\r\n清點中\r\n\r\n\r\n\r\n本站學習資源取用自格拉斯哥大學心理學院與神經科學與心理學研究中心的PsyTeachR團隊開發的CC BY-SA 4.0授權開放教材，任何人皆可分享及修改，但重製作品也要遵守相同方式分享。本站內容可由可重製統計學習資源 github取得，電子書中文化工程將持續進行並不定期更新。\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-02-24T16:38:30+08:00"
+      "contents": "\r\n開放統計學習前準備\r\n請自備能執行R與Rstudio的個人電腦設備，作業系統不拘，安裝設定請參考影片：\r\n\r\n\r\nWindows使用者務必安裝於“C:\\Program Files”之外的路徑\r\n(1)初步安裝完成者請自行下載基礎 R 語法寫作示範；(2)解壓縮後以Rstudio開啟“base_R_demo.Rmd”；(3)按下視窗上方的“Knit”按鈕，能生成網頁檔“base_R_demo.html”表示你的R及Rstudio可正常執行。(過程中將安裝必要套件，提示按yes或繼續即可)\r\n\r\n開放學習資源清單\r\n\r\n清點中\r\n\r\n\r\n\r\n本站學習資源取用自格拉斯哥大學心理學院與神經科學與心理學研究中心的PsyTeachR團隊開發的CC BY-SA 4.0授權開放教材，任何人皆可分享及修改，但重製作品也要遵守相同方式分享。本站內容可由可重製統計學習資源 github取得，電子書中文化工程將持續進行並不定期更新。\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-02-25T16:34:24+08:00"
     },
     {
       "path": "programs.html",
@@ -22,7 +22,7 @@
       "description": "網頁內容依授課場合調整。\n",
       "author": [],
       "contents": "\r\n\r\nContents\r\n課程準備 Preparation\r\n先備或必學能力 Prerequisite Skill(s)\r\n學習目標 Objectives\r\n學習課表 Syllabus\r\n\r\n課程準備 Preparation\r\n除大學生1年級，建議學員自備能執行本機版R與Rstudio的個人電腦或筆電。\r\n參考可重製研究操作教學套件，了解符合個人狀況的學習進程。\r\n先備或必學能力 Prerequisite Skill(s)\r\n學員身份\r\n種子教師\r\n研究生\r\n大學生(2年級以上)\r\n大學生(1年級)\r\n可運作的R & Rstudio\r\nV\r\nV\r\nV\r\n\r\n更新R及R套件\r\nV\r\nV\r\nV\r\n\r\ngithub帳號\r\nV\r\nV\r\nV\r\nV\r\ngit版本控制系統基本操作\r\nV\r\nV\r\nV\r\n\r\n學習目標 Objectives\r\n種子教師\r\n認識開放透明的研究規範\r\n更新研究操作\r\n研究生\r\n認識開放透明的研究規範\r\n學習開放透明的研究操作\r\n大學生(2年級以上)\r\n認識開放透明的研究規範\r\n學習開放透明的研究操作\r\n大學生(1年級)\r\n學習能長期累積思考成品的寫作方法\r\n認識基本機率論與計算工具\r\n認識開放透明的研究規範\r\n課前自學影片\r\n安裝R, Rstudio, 設定Git\r\n\r\n\r\n更新R核心環境\r\n\r\n\r\n透過github repo創建專案\r\n\r\n\r\n學習課表 Syllabus\r\n種子教師\r\n進度編號\r\n單元名稱\r\n講義及課程資訊連結\r\n0\r\n課程說明\r\n啟動講義\r\n1\r\n如何評估及解讀效果量\r\n課程講義\r\n1.1\r\n協作彙整效果量R函式\r\n發佈於成果驗收\r\n2\r\n設計有高考驗力的研究\r\n課程講義\r\n2.1\r\n協作樣本數估計方案\r\n發佈於成果驗收\r\n3\r\n評估已出版研究的考驗力\r\n課程講義\r\n3.1\r\n協同學習考驗力評估工具\r\n發佈於成果驗收\r\n研究生\r\n進度編號\r\n單元名稱\r\n講義及課程資訊連結\r\n0\r\n課程說明\r\n啟動講義\r\n1\r\n如何評估及解讀效果量\r\n課程講義\r\n2\r\nProgramming basics & Intro to R\r\n參考增能課表\r\n3\r\nData Processing\r\n參考增能課表\r\n4\r\nFundamental statistics\r\n參考增能課表\r\n5\r\n設計有高考驗力的研究\r\n課程講義\r\n6\r\nAdvanced data analysis\r\n參考增能課表\r\n7\r\nReproducible workflows\r\n參考增能課表\r\n8\r\nAdvanced data processing\r\n參考增能課表\r\n9\r\nAdvanced data analysis\r\n參考增能課表\r\n大學生(2年級以上)\r\n進度編號\r\n單元名稱\r\n講義及課程資訊連結\r\n0\r\n課程說明\r\n啟動講義\r\n1\r\nProgramming basics & Intro to R\r\n參考增能課表\r\n2\r\nData Processing (Block 1)\r\n參考增能課表\r\n3\r\nData processing (Block 2)\r\n參考增能課表\r\n4\r\nProbability\r\n參考增能課表\r\n5\r\n如何評估及解讀效果量\r\n課程講義\r\n6\r\nRmarkdown skill\r\n參考增能課表\r\n7\r\nData processing (Block 3)\r\n參考增能課表\r\n8\r\nProbability distribution\r\n參考增能課表\r\n9\r\nNHST\r\n參考增能課表\r\n10\r\nAlpha, Power, Effect Sizes, Sample Size\r\n參考增能課表\r\n11\r\nCorrelations and Regression\r\n參考增能課表\r\n20220216草稿版本\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-02-24T16:38:31+08:00"
+      "last_modified": "2022-02-25T16:34:26+08:00"
     },
     {
       "path": "tests.html",
@@ -30,7 +30,7 @@
       "description": "因應各種授課場合，彙整講義及作業資訊。",
       "author": [],
       "contents": "\r\n正在進行的課程作業\r\n\r\n課程作業依教學需要，在學員方便使用的非同步教學平台發佈。\r\n\r\n學員身份\r\n種子教師\r\n研究生\r\n大學生\r\n最新作業登入連結\r\n待發佈\r\nTCU GMS classroom\r\nTCU GMS classroom\r\n作業截止日期時間\r\n待設定\r\n詳見平台公告\r\n詳見平台公告\r\n曾發佈的課程作業\r\n\r\nPsyteachR level 1 github classroom。 修課學生需要有個人github帳號，才能取得以及繳交作業。\r\n\r\n曾使用的課程講義\r\n20211112 TCPSR開放科學種子教師Part001\r\n2021 成功大學心理學系“心理與教育統計” PsyteachR level 1( 未完成)\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-02-24T16:38:32+08:00"
+      "last_modified": "2022-02-25T16:34:27+08:00"
     }
   ],
   "collections": []
