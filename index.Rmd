@@ -17,23 +17,32 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-### 開放統計學習前準備
+### 可重製統計學習前準備
 
 - 請自備能執行R與Rstudio的個人電腦設備，作業系統不拘，安裝設定請參考影片：
 
+**Windows使用者務必安裝R與Rstudio於"C:\\Program Files"之外的路徑**<br>
+
+**Mac OS使用者請確認作業系統版本維持於最新版**<br>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TRQbovHGLQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Windows使用者務必安裝於"C:\\Program Files"之外的路徑**
+### 初步安裝者自行測試指引
 
-- (1)初步安裝完成者請自行下載[基礎 R 語法寫作示範](https://rstat-project.github.io/seed_courses/base_R_demo.zip)；(2)解壓縮後以Rstudio開啟"base_R_demo.Rmd"；(3)按下視窗上方的"Knit"按鈕，能生成網頁檔"base_R_demo.html"表示你的R及Rstudio可正常執行。(過程中將安裝必要套件，提示按yes或繼續即可)
+1. 初步安裝完成者請自行下載[基礎 R 語法寫作示範](https://rstat-project.github.io/seed_courses/base_R_demo.zip)
+
+2. 解壓縮後以Rstudio開啟"base_R_demo.Rmd"
+
+3. 按下視窗上方的"Knit"按鈕，能生成網頁檔"base_R_demo.html"表示你的R及Rstudio可正常執行。(過程中將安裝必要套件，提示按yes或繼續即可)
 
 ![](images/Rmd_first_knit.png)
+
+<!---
 
 ### 開放學習資源清單
 
 > 清點中
 
-<!---
 2022/2/16 blocked 
 > leve 1與level 2電子書為本課程主要學習材料，修課學生可參考[課程大綱](syllabus.html)依單元順序學習。有github帳號者皆可在課程討論區發言。“可重製統計中文示範系列”是再進階的學習材料，提供更熟練R與資料科學方法的同學自修。
 
