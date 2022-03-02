@@ -37,6 +37,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](images/Rmd_first_knit.png)
 
+**安裝套件錯誤排除**：中文Windows使用者以中文設定帳戶，在使用者資料夾產生中文資料夾，將造成無法安裝套件的錯誤。更改帳戶資料夾名稱的方法請參考[零科技網站](https://zerotech.club/rename-user-home-folder/)，詳細說明請見本站[常見問題](faq.html)。
+
 <!---
 
 ### 開放學習資源清單

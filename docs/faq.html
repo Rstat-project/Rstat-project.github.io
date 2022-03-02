@@ -2114,12 +2114,34 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </ul>
 <h3 id="無法安裝r套件">無法安裝R套件</h3>
 <ul>
-<li><p><strong>問題描述</strong> 依預設建議安裝windows 10與11，會綁定onedrive。或預設登入權限不具有管理員等級，無法更改外部軟體安裝路徑，都會造成在R console無法透過遠端伺服器下載安裝所需套件。</p></li>
-<li><p>解決方法1: R與Rstudio不要安裝於”C:\Program Files”。有兩個以上磁碟區，建議安裝於”C:\“之外的磁碟區。只有一個磁碟區，建議安裝於其他非”C:\Program Files”的路徑。</p></li>
-<li><p>解決方法2:(適用解決方法1無法解決者) 自行下載套件壓縮檔，由本地安裝。</p></li>
+<li><strong>問題描述</strong> (1)依預設建議安裝windows 10與11，會綁定onedrive。(2)登入帳號權限不具有管理員等級，無法更改外部軟體安裝路徑。(3)設定帳戶名稱為中文，造成系統使用者路徑為中文。以上任何一種狀況都會造成R console無法透過遠端伺服器下載安裝所需套件。</li>
+</ul>
+<div class="layout-chunk" data-layout="l-body">
+<div class="figure"><span style="display:block;" id="fig:win-usr"></span>
+<img src="images/win-user-dir.png" alt="檢查個人windows的使用者路徑，可登入本機windows的使用者都有一個專屬路徑。" width="499" />
+<p class="caption">
+Figure 1: 檢查個人windows的使用者路徑，可登入本機windows的使用者都有一個專屬路徑。
+</p>
+</div>
+</div>
+<h4 id="檢測方法">檢測方法</h4>
+<p>在R studio的Console視窗輸入<code>Sys.getenv()</code>，列印環境參數，查看<code>R_HOME</code>與<code>R_LIBS_USER</code>的路徑。如果中間有???，代表R無法判讀安裝R套件的資料夾。</p>
+<div class="layout-chunk" data-layout="l-body">
+<div class="figure"><span style="display:block;" id="fig:r-env"></span>
+<img src="images/R-env-parameters.png" alt="R環境參數示範。示範者有作業系統最高管理權限，所以除了R_USER，其他參數都指向最新版R安裝路徑。" width="449" />
+<p class="caption">
+Figure 2: R環境參數示範。示範者有作業系統最高管理權限，所以除了R_USER，其他參數都指向最新版R安裝路徑。
+</p>
+</div>
+</div>
+<h4 id="解決方法">解決方法</h4>
+<ul>
+<li><p>解決方法1: R與Rstudio不要安裝於“C:\Program Files”。有兩個以上磁碟區，建議安裝於“C:\”之外的磁碟區。只有一個磁碟區，建議安裝於其他非“C:\Program Files”的路徑。</p></li>
+<li><p>解決方法2: 更改使用者資料夾名稱，更改方法參考<a href="https://zerotech.club/rename-user-home-folder/">零科技網站</a>。</p></li>
+<li><p>解決方法3:(適用解決方法1,2無法解決者) 自行下載套件壓縮檔，由本地安裝。</p></li>
 </ul>
 <blockquote>
-<p>step 1. 下載套件壓縮檔。以<code>evaluate</code>為例，google搜尋”R evaluate package”可找到<a href="https://cran.r-project.org/web/packages/evaluate/index.html">CRAN資訊網頁</a>。從網頁中下載最新版壓縮檔。</p>
+<p>step 1. 下載套件壓縮檔。以<code>evaluate</code>為例，google搜尋“R evaluate package”可找到<a href="https://cran.r-project.org/web/packages/evaluate/index.html">CRAN資訊網頁</a>。從網頁中下載最新版壓縮檔。</p>
 </blockquote>
 <p><img src="images/R-cran-webpage.png" /></p>
 <blockquote>
