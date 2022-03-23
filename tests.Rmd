@@ -14,8 +14,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 |學員身份|種子教師|研究生|大學生|
 |---|:---:|:---:|:---:|
-|最新作業登入連結| 待發佈 | [TCU GMS classroom](https://classroom.google.com/c/NDczNzczNzk5NjY0?cjc=ok3ro4f) | [TCU GMS classroom](https://classroom.google.com/c/NDczNzczNDAxMzAw?cjc=5pwzqdy) |
-|作業截止日期時間| 待設定 | 詳見平台公告 | 詳見平台公告 |
+|最新作業登入連結| [第1期第1堂](seed_courses/Lecture01HW.Rmd) | [TCU GMS classroom](https://classroom.google.com/c/NDczNzczNzk5NjY0?cjc=ok3ro4f) | [TCU GMS classroom](https://classroom.google.com/c/NDczNzczNDAxMzAw?cjc=5pwzqdy) |
+|作業截止日期時間| 第1期第2堂<br/>開始前三日 | 詳見作業平台公告 | 詳見作業平台公告 |
 
 
 ### 曾發佈的課程作業

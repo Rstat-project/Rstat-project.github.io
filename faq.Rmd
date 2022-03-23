@@ -51,6 +51,19 @@ knitr::include_graphics(path = "images/R-env-parameters.png")
 
 ![](images/R-local-install-pkgs.png)
 
+### Rmd檔案的渲染成果無法顯示中文
+
+- **問題描述** R的物件資料有中文字，執行Knit的渲染成果(網頁檔, Word檔)無法正確顯示中文字。
+
+#### 解決方法
+
+1. 開啟“所有設定”。
+2. 點選“時間與語言”。
+3. 點選“系統語言管理設定”，開啟選單，如下圖。
+
+![](images/language-setting.png)
+
+4. 確認“非Unicode程式的語言”這欄顯示的是**中文（繁體，台灣）**。如果不是，點選“變更系統地區設定”更改設定。套用新設定重新開機，應可渲染中文字資料。
 
 ## Mac OS
 
@@ -81,3 +94,11 @@ knitr::include_graphics(path = "images/R-env-parameters.png")
 3. 點選：Download Rstudio Desktop，依照電腦指示安裝。
 
 
+### Rmd檔案的渲染成果無法顯示中文
+
+- **問題描述** Rmd檔有中文字，渲染後無法正常顯示。
+
+
+#### 解決方法
+
+確認系統預設語系是繁體中文，查看與更看設定的方法參考[官方說明網頁](https://support.apple.com/zh-tw/guide/mac-help/mh26684/mac)。

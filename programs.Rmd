@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## 課程準備 Preparation
 
-- 除大學生1年級，建議學員自備能執行本機版R與Rstudio的個人電腦或筆電。
+- 除了大學新生課程，建議學員自備能執行本機版R與Rstudio的個人電腦或筆電。
 
 - 參考[可重製研究操作教學套件](/seed_courses/)，了解符合個人狀況的學習進程。
 
@@ -42,7 +42,10 @@ knitr::opts_chunk$set(echo = FALSE)
 ### 種子教師
 
 - 認識開放透明的研究規範
-- 更新研究操作
+- 更新個人與團隊的研究操作
+- 參與PsyTeachr課程在地化工程
+
+> 歡迎參考Psychological Methods[徵稿啟事](https://www.apa.org/pubs/journals/met/call-for-papers-tutorials#)
 
 ### 研究生
 
@@ -59,23 +62,6 @@ knitr::opts_chunk$set(echo = FALSE)
 - 學習能長期累積思考成品的寫作方法
 - 認識基本機率論與計算工具
 - 認識開放透明的研究規範
-
-
-#### 課前自學影片
-
-- 安裝R, Rstudio, 設定Git
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TRQbovHGLQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-- 更新R核心環境
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u05IqPDQIOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-- 透過github repo創建專案
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yeLSkxtc-kI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 ## 學習課表 Syllabus
@@ -125,4 +111,25 @@ knitr::opts_chunk$set(echo = FALSE)
 |11| Correlations and Regression | 參考[增能課表](/seed_courses/Program_undergraudate.html) |
 
 
+
+
+#### 課前自學影片
+
+- 安裝R, Rstudio, 設定Git
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TRQbovHGLQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+- 更新R核心環境
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u05IqPDQIOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 透過github repo創建專案
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yeLSkxtc-kI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<!---
 * 20220216草稿版本
+* 20200323更新版本
+--->

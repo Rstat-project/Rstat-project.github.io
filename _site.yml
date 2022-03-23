@@ -3,6 +3,7 @@ title: "Reproducible Stat Learning"
 description: |
   Reproducible Stat Learning
 output_dir: "docs"
+exclude: ["*.Rmd"]
 navbar:
   right:
 #    - text: "Home"
